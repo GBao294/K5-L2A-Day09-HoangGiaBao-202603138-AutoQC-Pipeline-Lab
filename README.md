@@ -1,3 +1,4 @@
+# Day 09 Lab — <Họ và tên>: <202603138> - <Hoàng Gia Bảo>
 <p align="center">
   <img src="docs/assets/hero.png" alt="Day 09 Lab: pipeline kiểm nhãn tự động" width="100%">
 </p>

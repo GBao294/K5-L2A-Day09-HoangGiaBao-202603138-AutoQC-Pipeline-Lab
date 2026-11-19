@@ -1,0 +1,18 @@
+{
+  "verdict": {
+    "decision": "Release",
+    "n_errors": 0,
+    "n_warn_images": 13,
+    "n_images": 193,
+    "warn_ratio": 0.0674,
+    "reasons": [
+      "Không còn lỗi bắt buộc; 13/193 ảnh còn cảnh báo (6.74%) < ngưỡng 10%: phát hành (Release)."
+    ]
+  },
+  "reviewed": 80,
+  "budget": 80,
+  "seconds": 10.4,
+  "exported": "C:\\AIVIn\\K5-L2A-Day09-HoangGiaBao-202603138-AutoQC-Pipeline-Lab\\submission\\export\\clean_v1",
+  "config_sha1": "15bf5a4c718ea1d80fd3d7b438a6769e11b3301e",
+  "review_sim_sha1": "7988ca22827f780a7043a2300490e679a1697154"
+}
